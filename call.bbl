@@ -1,0 +1,65 @@
+\begin{thebibliography}{10}
+
+\bibitem{budish2015high}
+{\sc Budish, E., Cramton, P. and Shim, J.} (2015).
+\newblock The high-frequency trading arms race: Frequent batch auctions as a
+  market design response.
+\newblock {\em The Quarterly Journal of Economics\/} {\bf 130,} 1547--1621.
+
+\bibitem{daley03}
+{\sc Daley, D.~J. and Vere-Jones, D.} (2003).
+\newblock {\em An Introduction to the Theory of Point Processes} second~ed.
+\newblock Springer, New York.
+
+\bibitem{derksen2020clearing}
+{\sc Derksen, M., Kleijn, B. and De~Vilder, R.} (2020).
+\newblock Clearing price distributions in call auctions.
+\newblock {\em Quantitative Finance\/} {\bf 20,} 1475--1493.
+
+\bibitem{friedman2018double}
+{\sc Friedman, D.} (2018).
+\newblock {\em The double auction market: institutions, theories, and
+  evidence}.
+\newblock Routledge.
+
+\bibitem{Kallenberg02}
+{\sc Kallenberg, O.} (2002).
+\newblock {\em Foundations of Modern Probability} second~ed.
+\newblock Springer, New York.
+
+\bibitem{kendall1948advanced}
+{\sc Kendall, M.~G. et~al.} (1948).
+\newblock {\em The advanced theory of statistics. Vols. 1.} vol.~1.
+\newblock Charles Griffin and Co., Ltd., 42 Drury Lane, London.
+
+\bibitem{mendelson1982market}
+{\sc Mendelson, H.} (1982).
+\newblock Market behavior in a clearing house.
+\newblock {\em Econometrica: Journal of the Econometric Society\/} 1505--1524.
+
+\bibitem{skellam1946frequency}
+{\sc Skellam, J.~G.} (1946).
+\newblock The frequency distribution of the difference between two poisson
+  variates belonging to different populations.
+\newblock {\em Journal of the Royal Statistical Society. Series A (General)\/}
+  {\bf 109,} 296--296.
+
+\bibitem{toke2015exact}
+{\sc Toke, I.~M.} (2015).
+\newblock Exact and asymptotic solutions of the call auction problem.
+\newblock {\em Market microstructure and liquidity\/} {\bf 1,} 1550001.
+
+\bibitem{wolframbessel}
+{\sc {Wolfram Research}}.
+\newblock The {W}olfram functions site, modified {B}essel function of the first
+  kind.
+\newblock
+  \url{https://functions.wolfram.com/Bessel-TypeFunctions/BesselI/20/ShowAll.html}
+  (accessed Oct 2022).
+
+\bibitem{smid16estimation}
+{\sc Šmíd, M.} (2016).
+\newblock Estimation of zero intelligence models by l1 data.
+\newblock {\em Quantitative Finance\/}.
+
+\end{thebibliography}
